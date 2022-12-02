@@ -1,0 +1,8 @@
+POST https://project.joinbrix.com:10001/api/login
+content-type: application/json
+
+{
+    "email": "brix@joinbrix.com",
+    "password": "Brix1234",
+    "force" : true
+}
